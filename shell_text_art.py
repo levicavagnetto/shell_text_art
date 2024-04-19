@@ -5,7 +5,7 @@ from enum import Enum
 class _Color(Enum):
     BLACK = '\033[30m'
     RED = '\033[31m'
-    GREEM = '\033[32m'
+    GREEN = '\033[32m'
     YELLOW = '\033[33m'
     BLUE = '\033[34m'
     MAGENTA = '\033[35m'
